@@ -1,3 +1,5 @@
+// Discente: Luis Felipe Lopes
+
 // Classe que representa os nós da árvore
 class arvoreNo {
     valor: number;                  // O valor vai ficar guardado aqui

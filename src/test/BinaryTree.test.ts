@@ -1,3 +1,5 @@
+// Discente: Luis Felipe Lopes
+
 import { ArvoreBinaria } from '../arvoreBinaria/BinaryTree';
 
 describe('ArvoreBinaria', () => {
